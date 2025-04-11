@@ -7,7 +7,7 @@ A simple Flutter app that displays a centered diamond image with the bold text *
 
 ## 📱 Preview
 
-![Preview](images/diamond.png)
+![Preview](images/app.jpg)
 
 ## 🛠️ Built With
 
