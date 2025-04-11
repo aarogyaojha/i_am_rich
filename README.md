@@ -1,8 +1,3 @@
-Here's an updated version of the `README.md` file that's optimized for GitHub with badges and improved formatting:
-
----
-
-````markdown
 # 💎 i_am_rich
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -32,6 +27,7 @@ i_am_rich/
 ├── README.md          # This file
 └── LICENSE            # MIT License
 ```
+
 ````
 
 ## 🚀 Getting Started
@@ -88,10 +84,4 @@ i_am_rich/
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-```
-
----
-
-Feel free to further customize the badges, links, and content to match your GitHub repository details. This version is structured for clarity and ready for GitHub!
-```
+````
