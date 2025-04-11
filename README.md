@@ -28,8 +28,6 @@ i_am_rich/
 └── LICENSE            # MIT License
 ```
 
-````
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -84,4 +82,3 @@ i_am_rich/
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-````
