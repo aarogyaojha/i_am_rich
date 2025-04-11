@@ -6,8 +6,7 @@
 A simple Flutter app that displays a centered diamond image with the bold text **"I am rich"**. This project is inspired by the classic app concept and serves as a learning exercise in Flutter development.
 
 ## 📱 Preview
-
-![Preview](images/app.jpg)
+<img src="images/app.jpg" alt="Preview" width="100">
 
 ## 🛠️ Built With
 
@@ -41,7 +40,7 @@ i_am_rich/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/i_am_rich.git
+   git clone https://github.com/aarogyaojha/i_am_rich.git
    cd i_am_rich
    ```
 
@@ -77,7 +76,6 @@ i_am_rich/
 ## 🙌 Credits
 
 - This app was developed as a learning exercise for Flutter and Dart.
-- Diamond image courtesy of [your image source or royalty-free image site].
 
 ## 📄 License
 
